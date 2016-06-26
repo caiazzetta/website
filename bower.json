@@ -1,0 +1,9 @@
+{
+  "name": "caiazzetta",
+  "version": "0.0.1",
+  "devDependencies": {},
+  "dependencies": {
+    "font-awesome": "^4.6.3",
+    "material-design-lite": "^1.1.3"
+  }
+}

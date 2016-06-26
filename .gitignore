@@ -1,0 +1,42 @@
+*.sw*
+*~
+build/
+compile/
+node_modules/
+bin/
+
+node_modules
+dist
+.tmp
+.sass-cache
+bower_components
+
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+.elc
+auto-save-list
+tramp
+.\#*
+
+# Org-mode
+.org-id-locations
+*_archive
+
+# bittorrent sync
+.SyncID
+.SyncIgnore
+/.!sync
+
+.idea
+
+public
+npm-debug.log
+
+# rvm
+.ruby-version
+.ruby-gemset
+.DS_Store
+
+firebase-debug.log

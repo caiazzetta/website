@@ -20,16 +20,11 @@ Environment variables handle all app settings. You might want to use [smartcd](h
 - PORT (development only; default: 3700)
 - AWS_ACCESS_KEY_ID
 - AWS_SECRET_ACCESS_KEY
-- GOOGLE_ANALYTICS_ID
-- NODE_PATH = .
-
 
 #### Executing
 
 ```sh
-$ grunt                                               <-- build & watch for changes
 $ npm start                                           <-- start development server
 ```
 
 Finally, open http://local.iazzetta.eu:3700 in your browser.
-# website
