@@ -46,7 +46,7 @@ a:hover {
 }
 
 .menu a {
-  margin: 0 10px;
+  margin: 2px 5px;
   background-color: #f9f9f9;
 }
 
@@ -54,7 +54,34 @@ a:hover {
   color: #999;
 }
 
+h3 {
+  line-height: 0.5em;
+  margin-top: 55px;
+}
+
+h3 strong {
+  display: block;
+/*  font-size: 80%;*/
+  margin-left: 70px;
+  margin-bottom: 55px;
+}
+
 .index h3 {
   text-align: center;
-  margin-top: 100px;
+}
+
+.i18n,
+.social {
+  display: block;
+  width: 50%;
+  float: left;
+}
+
+.i18n img,
+.social img {
+  height: 17px;
+}
+
+.i18n {
+  text-align: right;
 }
