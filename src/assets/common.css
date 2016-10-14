@@ -8,18 +8,6 @@ main {
   max-width: 650px;
 }
 
-.i18n {
-  text-align: center;
-}
-
-.avatar {
-  border-radius: 50%;
-  height: 50px;
-  margin-bottom: 8px;
-  margin-right: 10px;
-  width: 50px;
-}
-
 .wide-image {
   background-color: #e1e1e1;
   border-top: 1px solid #999;
@@ -55,15 +43,21 @@ a:hover {
 }
 
 h3 {
-  line-height: 0.5em;
+  font-size: 200%;
   margin-top: 55px;
+  margin-left: 70px;
 }
 
-h3 strong {
+h3 small.men {
   display: block;
-/*  font-size: 80%;*/
-  margin-left: 70px;
-  margin-bottom: 55px;
+  font-size: 50%;
+}
+
+.avatar {
+  border-radius: 50%;
+  height: 50px;
+  margin: 0 12px 0 -70px;
+  width: 50px;
 }
 
 .index h3 {
@@ -81,6 +75,7 @@ h3 strong {
 .social img {
   height: 17px;
 }
+
 
 .i18n {
   text-align: right;
