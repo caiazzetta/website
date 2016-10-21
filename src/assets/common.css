@@ -25,6 +25,13 @@ a:hover {
   color: #666;
 }
 
+.tableContainer {
+  display: block;
+  width: 98%;
+  overflow: scroll;
+  margin-bottom: 15px;
+}
+
 .mdl-data-table {
   width: 98%;
 }
@@ -62,6 +69,7 @@ h3 small.men {
 
 .index h3 {
   text-align: center;
+  margin-left: 0;
 }
 
 .i18n,
